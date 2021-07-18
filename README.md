@@ -13,4 +13,5 @@ I have used Amazon S3 bucket to load the data into databricks file storage.
 
 I have used data mining technique called FPM(Frequency pattern Mining). I used FP-Growth algorithm for analysing the frequency of the items purchased by the customers.
 
-The complete project can be viewed under databricks cloud server. The link is https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4980803532271288/2138623309292248/6114357362569377/latest.html
+The complete project can be viewed under databricks cloud server. The link to access is given below
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4980803532271288/2138623309292248/6114357362569377/latest.html
