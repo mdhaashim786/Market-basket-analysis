@@ -5,8 +5,11 @@ The link for the dataset : https://www.kaggle.com/c/instacart-market-basket-anal
 
 This dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, it provides between 4 and 100 of their orders, with the sequence of products purchased in each order. It also provided the week and hour of day the order was placed, and a relative measure of time between orders.
 
-This project comes under the domain of Big data with Spark.
+This project comes under the domain of Big data with Spark implemented in the databricks environment.
+
 The languages used are Python and SQL.
+
+I have used Amazon S3 bucket to load the data into databricks file storage.
 
 I have used data mining technique called FPM(Frequency pattern Mining). I used FP-Growth algorithm for analysing the frequency of the items purchased by the customers.
 
