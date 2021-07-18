@@ -1,1 +1,7 @@
 
+The main 4 components of the project are :
+
+1. Ingest Data: Bringing in the data from your source systems; often involving ETL(Extract,Tranform,Load) processes.
+2. Explore Data: Now that you have cleansed data, explore it so you can get some business insight
+3. Train ML Model: Execute FP-growth for frequent pattern mining
+4. Review Association Rules: Review the generated association rules
