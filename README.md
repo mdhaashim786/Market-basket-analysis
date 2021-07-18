@@ -16,10 +16,10 @@ I have used data mining technique called FPM(Frequency pattern Mining). I used F
 The complete project can be best viewed under databricks cloud server. The link to access is given below
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4980803532271288/2138623309292248/6114357362569377/latest.html
 
+Anyone with this link can import the whole project into databricks cloud notebook and perform analysis on the data.
+
 I completed my whole project in the databricks cloud notebook. 
 
 I'm uploading the ipynb file, but if you need to run the ipynb file on the jupyter notebook follow the link : https://naomi-fridman.medium.com/install-pyspark-to-run-on-jupyter-notebook-on-windows-4ec2009de21f
 
-Just for the purpose of recap you can view the HTML file also. 
 
-Anyone with this link can import the whole project into databricks cloud notebook and perform analysis on the data.
