@@ -15,3 +15,5 @@ I have used data mining technique called FPM(Frequency pattern Mining). I used F
 
 The complete project can be viewed under databricks cloud server. The link to access is given below
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4980803532271288/2138623309292248/6114357362569377/latest.html
+
+Anyone with this link can import the whole project into databricks cloud notebook and perform analysis on the data.
